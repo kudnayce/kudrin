@@ -4,6 +4,6 @@ let fn = (a,b,c) => {
 }
 
 
-let z = fn(100,200,500);
+let z = fn(100,200,900);
 console.log(z);
 
